@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "scripts": {
+    "lint-fix": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
